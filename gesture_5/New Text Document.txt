@@ -1,0 +1,7 @@
+classes = {
+    0: 'click',
+    1: 'five',
+    2: 'grab',
+    3: 'next',
+    4: 'previous',
+}

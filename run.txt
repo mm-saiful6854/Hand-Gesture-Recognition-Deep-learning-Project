@@ -1,0 +1,6 @@
+activate.bat
+activate conda_env
+python gesture-recognizer_10Dec.py
+
+
+

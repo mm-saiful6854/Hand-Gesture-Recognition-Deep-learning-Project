@@ -1,0 +1,13 @@
+classes = {
+    0: 'click',
+    1: 'fist',
+    2: 'five',
+    3: 'grab',
+    4: 'next',
+    5: 'palm',
+    6: 'palm2',
+    7: 'point',
+    8: 'previous',
+    9: 'swing',
+    10: 'thumbs'
+}

@@ -1,0 +1,9 @@
+
+classes = {
+    0: 'click',
+    1: 'five',
+    2: 'mouse',
+    3: 'thumb',
+    4: 'swing',
+}
+
